@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-12)
+## Unreleased (2026-08-29)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`afc9d5b`](https://github.com/stdlib-js/stdlib/commit/afc9d5b13a67ea694d225c5115d6ac3f1772caa7) - **docs:** clean-up [(#13435)](https://github.com/stdlib-js/stdlib/pull/13435) _(by Philipp Burckhardt)_
 -   [`b0d9c7c`](https://github.com/stdlib-js/stdlib/commit/b0d9c7cd5db001eae22cb4bef3f5ec7dbe3472f3) - **feat(stats):** add `stats/incr/nanmeanvar` [(#6212)](https://github.com/stdlib-js/stdlib/pull/6212) _(by HO CHAK SING (Hans), Philipp Burckhardt, stdlib-bot)_
 
 </details>
